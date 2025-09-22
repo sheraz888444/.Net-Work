@@ -1,0 +1,11 @@
+C:\Users\Super\OneDrive\Desktop\sheraz-net\login-signup\bin\Debug\login-signup.exe.config
+C:\Users\Super\OneDrive\Desktop\sheraz-net\login-signup\bin\Debug\login-signup.exe
+C:\Users\Super\OneDrive\Desktop\sheraz-net\login-signup\bin\Debug\login-signup.pdb
+C:\Users\Super\OneDrive\Desktop\sheraz-net\login-signup\obj\Debug\login-signup.csproj.AssemblyReference.cache
+C:\Users\Super\OneDrive\Desktop\sheraz-net\login-signup\obj\Debug\login_signup.Form1.resources
+C:\Users\Super\OneDrive\Desktop\sheraz-net\login-signup\obj\Debug\login_signup.Properties.Resources.resources
+C:\Users\Super\OneDrive\Desktop\sheraz-net\login-signup\obj\Debug\login-signup.csproj.GenerateResource.cache
+C:\Users\Super\OneDrive\Desktop\sheraz-net\login-signup\obj\Debug\login-signup.csproj.CoreCompileInputs.cache
+C:\Users\Super\OneDrive\Desktop\sheraz-net\login-signup\obj\Debug\login-signup.exe
+C:\Users\Super\OneDrive\Desktop\sheraz-net\login-signup\obj\Debug\login-signup.pdb
+C:\Users\Super\OneDrive\Desktop\sheraz-net\login-signup\obj\Debug\login_signup.Form2.resources
